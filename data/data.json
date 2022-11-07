@@ -1,0 +1,15 @@
+{
+    "person": {
+        "firstname":"ingrid",
+        "lastname":"chou"
+    },
+    "work": {
+        "job": "student",
+        "program":"Digital Design and Development Diploma",
+        "url":"https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/?gclid=EAIaIQobChMIq62yktic-wIVtQR9Ch1cLgIHEAAYASAAEgJ8FfD_BwE&gclsrc=aw.ds"
+    },
+    "study": {
+        "programs": ["Applied Software Development Certificate", "Computer Systems Certificate", "Computer Systems Diploma"],
+        "department": "School of Computing & Information Technology"
+    }
+}
